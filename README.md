@@ -4,8 +4,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bertoldo_a3)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-bertoldo-5400aa201/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/ana-clara-bertoldo-5400aa201/)
-[![Discord](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/ana-clara-bertoldo-5400aa201/)
-
 
 | <a href="https://github.com/bertoldoa3/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bertoldoa3&show_icons=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertoldoa3&layout=compact&theme=dracula&hide_border=true" /></a> |
  
