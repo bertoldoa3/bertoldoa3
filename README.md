@@ -23,10 +23,4 @@
 <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
 
-### A única maneira de fazer algo excelente é amar o que você faz. - Steve Jobs
-
-## Últimos Projetos 
-
-- 
--
--
+"Seu trabalho vai preencher uma parte grande da sua vida, e a única maneira de ficar realmente satisfeito é fazer o que você acredita ser um ótimo trabalho. E a única maneira de fazer um excelente trabalho é amar o que você faz." - Steve Jobs 
